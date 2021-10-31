@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SudiptaMondal13
+- 👋 Hi, I’m @SudiptaMondal
 - 👀 I’m interested in Front-end Web Development
 - 🌱 I’m currently learning JavaScript and frameworks
 - 💞️ I’m looking to collaborate on web development projects
