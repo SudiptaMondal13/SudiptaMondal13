@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SudiptaMondal
-- 👀 I’m interested in Front-end Web Development
+- 👀 I’m interested in Front-end Web Development and Data Analytics
 - 🌱 I’m currently learning JavaScript and frameworks
-- 💞️ I’m looking to collaborate on web development projects
+- 💞️ I’m looking to collaborate on web development and data analysis projects
 - 📫 Reach me: https://www.linkedin.com/in/sudiptamondalhere/
 
 <!---
