@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning and Data Analytics
 - 🌱 I’m currently learning Python and ML 
 - 💞️ I’m looking to collaborate on machine learning and data analysis projects
-- 📫 Reach me: https://www.linkedin.com/in/sudiptamondalhere/
+- 📫 Reach me:
 
 
 ## 🌐 Socials:
