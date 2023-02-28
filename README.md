@@ -1,3 +1,8 @@
+Hello! This is Sudipta Mondal
+
+[![](https://visitcount.itsvg.in/api?id=mondalsudipta&icon=6&color=0)](https://visitcount.itsvg.in)
+
+
 - 👋 Hi, I’m @SudiptaMondal
 - 👀 I’m interested in Machine Learning and Data Analytics
 - 🌱 I’m currently learning Python and ML 
@@ -28,6 +33,6 @@
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mondalsudipta&icon=6&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
