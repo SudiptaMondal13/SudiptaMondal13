@@ -3,10 +3,10 @@ Hello! This is Sudipta Mondal
 [![](https://visitcount.itsvg.in/api?id=mondalsudipta&icon=6&color=0)](https://visitcount.itsvg.in)
 
 
-- 👋 Hi, I’m @SudiptaMondal
-- 👀 I’m interested in Machine Learning and Data Analytics
-- 🌱 I’m currently learning Python and ML 
-- 💞️ I’m looking to collaborate on machine learning and data analysis projects
+- 👋 Hi, I’m SudiptaMondal
+- 👀 I’m interested in Machine Learning and Data Science
+- 🌱 Currently learning Python and ML 
+- 💞️ Looking to collaborate on machine learning and data science projects
 - 📫 Reach me:
 
 
