@@ -1,4 +1,4 @@
-Hello! This is Sudipta Mondal
+Hey! This is Sudipta Mondal
 
 [![](https://visitcount.itsvg.in/api?id=mondalsudipta&icon=6&color=0)](https://visitcount.itsvg.in)
 
